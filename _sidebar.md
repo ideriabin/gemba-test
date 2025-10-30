@@ -1,0 +1,4 @@
+- [Задание](task.md)
+- [Требования (RU)](requirements-ru.md)
+- [Архитектура](architecture.md)
+- [Глоссарий](glossary-ru.md)
